@@ -1,0 +1,15 @@
+D:\papka4\papka4_3\bin\Debug\net6.0\papka4_3.exe
+D:\papka4\papka4_3\bin\Debug\net6.0\papka4_3.deps.json
+D:\papka4\papka4_3\bin\Debug\net6.0\papka4_3.runtimeconfig.json
+D:\papka4\papka4_3\bin\Debug\net6.0\papka4_3.dll
+D:\papka4\papka4_3\bin\Debug\net6.0\ref\papka4_3.dll
+D:\papka4\papka4_3\bin\Debug\net6.0\papka4_3.pdb
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.csproj.AssemblyReference.cache
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.AssemblyInfoInputs.cache
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.AssemblyInfo.cs
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.csproj.CoreCompileInputs.cache
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.dll
+D:\papka4\papka4_3\obj\Debug\net6.0\ref\papka4_3.dll
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.pdb
+D:\papka4\papka4_3\obj\Debug\net6.0\papka4_3.genruntimeconfig.cache
